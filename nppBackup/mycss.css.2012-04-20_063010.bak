@@ -1,0 +1,21 @@
+.titlePicture
+{
+	width: 625px;	
+	float: left;
+	padding: 0px 30px 0px 0px 
+}
+.ourTiles1
+{
+	width: 500px;
+	float: left;
+}
+.ourTiles2
+{
+	padding: 2px 2px 2px 2px;
+	float: left;
+}
+.popTiles
+{
+	float: left;
+	padding: 2px 2px 2px 2px;
+}

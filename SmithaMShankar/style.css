@@ -1,0 +1,237 @@
+#titlebar {
+background: url(background.gif) repeat-x;
+background-image: url(background.gif);
+background-repeat-x: repeat;
+background-repeat-y: no-repeat;
+background-attachment: initial;
+background-position-x: initial;
+background-position-y: initial;
+background-origin: initial;
+background-clip: initial;
+background-color: initial;
+height: 65px;
+}
+#title {
+	margin: 0 auto;
+	position: initial;
+	width: 955px;
+	z-index: 88888;
+}
+#title h1 {
+	float: left;
+}
+#title h1 {
+text-indent: -9999px;
+}
+#title h1 a {
+	background: url(soic.gif) no-repeat 27px -21px;
+	display: block;
+	height: 65px;
+	width: 580px;	
+}
+h1 {
+display: block;
+-webkit-margin-before: 0.67em;
+-webkit-margin-after: 0.67em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}
+#title {
+text-align: left;
+}
+div {
+display: block;
+}
+
+#identity {
+	background-color: #fff;
+	height: 43px;
+	width: auto;
+}
+#identity hr {
+	display: none;
+}
+#identity #signature {
+	height: 43px;
+	margin: 0 auto;
+	position: relative;
+	width: 938px;
+}
+#identity #signature a {
+	background: url(iub_white.gif) no-repeat 20px 0;
+	display: block;
+	height: 43px;
+	left: -20px;
+	position: relative;
+	top: 0;
+	width: 250px;
+	text-indent: -9999px;
+}
+#identity #signature a img {
+	display: none;
+}
+#identity a {
+color: white;
+text-decoration: underline;
+}
+#nav-audiences {
+display: block;
+width: 100%;
+height: 41px;
+margin-top: 0px;
+margin-right: auto;
+margin-bottom: 0px;
+margin-left: auto;
+padding: 0 0 0 0;
+}
+#nav-audiences li {
+display: block;
+float: left;
+margin-top: 0px;
+margin-right: auto;
+margin-bottom: 0px;
+margin-left: auto;
+padding: 0;
+}
+#nav-audiences a {
+display: block;
+background: url(nav-top.gif) no-repeat;
+height: 41px;
+text-indent: -1000px;
+overflow: hidden;
+}
+#nav-audiences a.home {
+margin: 0 0 0 10px;
+width: 147px;
+background-position: -10px -66px;
+}
+#nav-audiences a.research {
+margin: 0 0 0 24px;
+width: 120px;
+background-position: -182px -66px;
+}
+#nav-audiences a.projects {
+margin: 0 0 0 29px;
+width: 153px;
+background-position: -330px -66px;
+}
+#nav-audiences a.courses {
+margin: 0 0 0 25px;
+width: 108px;
+background-position: -508px -66px;
+}
+a {
+color: #900;
+text-decoration: none;
+}
+#row-top {
+background: #DFD9BD url(bg-top.gif) repeat-x 0 100%;
+background-image: url(http://www.iub.edu/img/bg-top.gif);
+background-repeat-x: repeat;
+background-repeat-y: no-repeat;
+background-attachment: initial;
+background-position-x: 0px;
+background-position-y: 100%;
+background-origin: initial;
+background-clip: initial;
+background-color: #DFD9BD;
+height: 179px;
+text-align: left;
+}
+div.content-wide_light_container {
+    background: #f7f6f0;
+    padding: 3px;
+    float: left;
+    width: 538px;
+    margin: 0 0 1.25em;
+}
+
+div.content-wide_light_container-extension {
+    margin-top: -1.25em;
+}
+
+div.content-wide_light_container-clear {
+    clear: both;
+    background: #423c31;
+    height: 13px;
+}
+
+div.content-list-a-z-view {
+    clear: left;
+    margin: 0 0 1.25em 0;
+}
+
+p.content-list-a-z-instructions {
+    background: #423c31;
+    height: 13px;
+    text-indent: -10000px;
+    overflow: hidden;
+    margin: 0 0 8px 0;
+}
+
+ul.content-list-a-z-inde {
+    margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: 25%;
+    padding: 0 0 0 0; /* 12px -> 19px */
+    border-bottom: 1px solid #dfd9bd;
+}
+
+ul.content-list-a-z-index li {
+    border-left: 1px solid #423c31;
+    background: none;
+    float: left;
+    margin: 0;
+    padding: 0;
+    text-transform:uppercase;
+}
+
+ul.content-list-a-z-index a {
+    display: block;
+    padding: 0 6px;
+    font-size: .916em; /* 12px -> 11px */
+    line-height: 1.1em;
+}
+
+ul.content-list-a-z-index li.content-list-a-z-a {
+    border: none;
+}
+
+li.content-list-a-z-a a {
+    padding: 0 6px 0 0;
+}
+
+.content-list-a-z-heading {
+    font-size: 60px;
+    line-height: 60px;
+    background: none;
+    margin: 0 0 15px 0;
+    color: #88846f;
+/*  text-transform: lowercase; */
+}
+
+div.content-list-a-z {
+    float: left;
+    width: 100%;
+}
+
+div.content-list-a-z #content-list-a-z-a {
+    margin-top: 30px;
+}
+
+ul.content-list-a-z, ul.content-list-a-z li {
+    background: none;
+    margin: 0;
+    padding: 0 !important;
+}
+
+ul.content-list-a-z {
+    margin: 0 0 30px 0;
+}
+
+div.internal {
+        text-align: right;    
+        padding: 0 20px 0 0;
+        margin: -15px 0 0 0;
+}

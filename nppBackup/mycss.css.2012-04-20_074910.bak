@@ -1,0 +1,32 @@
+.titlePicture
+{
+	width: 625px;	
+	float: left;
+	padding: 0px 30px 0px 0px 
+}
+.ourTiles1
+{
+	padding: 75px 2px 2px 20px;
+	width: 500px;
+	float: left;
+}
+.ourTiles2
+{
+	padding: 2px 2px 2px 2px;
+	float: left;
+}
+.popTilesHorizontlal
+{
+	float: left;
+	padding: 2px 2px 2px 2px;
+}
+.popTilesVertical
+{
+	padding: 2px 2px 2px 2px;
+	float: right;
+}
+.fade-in-target {
+  opacity : 0;
+  transition-property : opacity; 
+  transition-duration : 0.7s; 
+}

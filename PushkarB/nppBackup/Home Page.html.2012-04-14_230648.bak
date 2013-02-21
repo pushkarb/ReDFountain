@@ -1,0 +1,81 @@
+<html>
+<head>
+<link rel="stylesheet" href="mycss.css">
+<center>
+<font size="16" color="#D80000" align="center">
+Pushkar Basappa<br/>
+</font>
+<font size="5"algin="center">
+<b>Graduate Student</b><br/>
+</font>
+<font size="4"algin="center">
+Department of Computer and Information Science and Engineering<br/>
+University of Florida, Gainesville<br/><br/>
+</font>
+</center>
+</head>
+<hr/>
+<body>
+<table border="0" align="left" cellpadding="5" id="1">
+	<tr>
+	<td>
+		<h3>Contact Info</h3>
+		<table border="0" align="left" cellpadding="5" id="2">
+			<tr>
+				<td><b>Address: </b></td>
+				<td>2811, SW Archer Road,<br/>Apt J-81,<br/>Gainesville, Florida 32608</td>
+			</tr>
+			<tr>
+				<td><b>Phone: </b></td>
+				<td>+1 352-213-3065</td>
+			</tr>
+			<tr>
+			<td><b>Email: </b></td>
+			<td>pushkar@cise.ufl.edu<br/>b.pushkar@gmail.com</td>
+			</tr>
+		</table>
+	</td>
+	</tr>
+	<tr>
+	<td>
+	<hr/>
+	</td>
+	</tr>
+	<tr>
+	<td>
+		<h3>Resume</h3>
+		You can find my resume <a href="http://www.cise.ufl.edu/~pushkar/Resume.pdf">here</a>. 
+		<hr/>
+	</td>
+	</tr>
+	<tr>
+	<td>
+		<h3>An Introduction</h3>
+		I joined University of Florida in Fall 2010. I am pursuing my Master of Science degree in the field of Computer Science.
+		<br/><br/>
+		I'am passionate programmer and my areas of interest include Databases, Data Mining. I am currently researching on Spatial Databases and working towards the implementation of spatial databases C++ libraries under 
+		Professor <a href="http://www.cise.ufl.edu/~mschneid/">Dr.Markus Schneider</a>.<br/><br/>
+		Details about the courses taken and my GPA can be found <a href="http://www.cise.ufl.edu/~pushkar/courses.html">here</a>.
+		<br/>
+		<br/>
+		Through my undergraduate studies, I have been interested in the field of databases. My work at Oracle Corporation for over 2 years 
+		in the Healthcare Global business unit, gave me an insight into data warehousing and data mining and helped me learn about their importance in the real world. I then decided
+		to pursue my graduate study in the same field to harness my interest and learn about the latest developments in this enormous and rapidly growing field.
+		<hr/>
+	</td>
+	</tr>
+	<tr>
+	<td>
+		<h3>A Brief History</h3>
+		In 2008, I graduated with a Bachelor of Technology degree in Information Technology from National Institute of Technology Karnataka, Surathkal.
+		<br/><br/>
+		On June 9th 2008, I joined the Health Sciences Global Business Unit of Oracle Corporation India Development Centre at Bangalore, India. I explored the field of 
+		data warehousing, reporting and data modelling. Some of the projects I have worked on during my tenure at Oracle are described <a href="http://www.cise.ufl.edu/~pushkar/projects.html">here</a>.
+		<br/>
+		<br/>
+		<br/>
+	</td>
+	</tr>
+</table>
+</body>
+</html>

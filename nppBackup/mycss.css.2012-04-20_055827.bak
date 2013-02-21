@@ -1,0 +1,11 @@
+.titlePicture
+{
+	width: 625px;	
+	float: left;
+	padding: 15px 15px 0px 0px 
+}
+.ourTiles
+{
+	width: 400px;
+	float: left;
+}

@@ -1,0 +1,19 @@
+.browsebutton {
+	background-color:#79bbff;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid #54a2f0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:14px 24px;
+	text-decoration:none;
+}.browsebutton:hover {
+	background-color:#52b1ff;
+}.browsebutton:active {
+	position:relative;
+	top:1px;
+}

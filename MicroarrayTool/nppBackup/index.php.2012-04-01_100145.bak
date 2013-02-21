@@ -1,0 +1,36 @@
+<?php
+
+?>
+
+<html>
+<title>
+Microarray tool
+</title>
+<head>
+	<p>
+	<h1 align="center">Microarray Analysis Tool</h1>
+	<hr />
+	</p>
+<link href="mt.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<p>
+	Input raw zipped data files here
+	</br>
+<!--	<input type="file" name="Browse"> 
+	</br> -->
+	<form action="A:\Pushkar\Smishank\" method="post" enctype="multipart/form-data">
+		<input type="file" name="fileToUpload" accept="image/*">
+		<input type="submit" name="Submit" class="browsebutton">
+	</form>
+	</br>
+	</p>	
+</br></br>
+<hr />
+	<p>
+	<font size="2" color="indigo">
+	Created by Smitha M Shankar
+	</font>
+	</p>
+</body>
+</html>

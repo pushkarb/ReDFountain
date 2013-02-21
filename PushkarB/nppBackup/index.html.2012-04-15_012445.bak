@@ -1,0 +1,8 @@
+<html>
+<head>
+</head>
+<frameset cols="25%,*">
+<frame src="Sidebar.html" name="navbar">
+<frame src="Home Page.html" name="loadspace">
+</frameset>
+</html>

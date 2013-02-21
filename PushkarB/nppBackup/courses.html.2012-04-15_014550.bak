@@ -1,0 +1,64 @@
+<html>
+<head>
+<link rel="stylesheet" href="mycss.css">
+<h2 align="center">At University of Florida</h2>
+<hr/>
+</head>
+<body>
+<u><h3>GPA: 3.44/4.0</h3></u>
+<hr/>
+<u><h3>Courses</h3></u>
+<ul>
+<hr/>
+<li><h3>Fall 2010</h3>
+	<ul>
+	<li><b><font size="4"><a href="http://www.cise.ufl.edu/~cop5536fa10/">Advanced Data Structures</a></font></b>
+	<br/>
+	Course Instructor: <a href="http://www.cise.ufl.edu/~sahni/">Dr.Sartaj Sahni</a>
+	<br/>
+	<br/>
+	<li><b><font size="4"><a href="http://www.cise.ufl.edu/~cot5405fa10/">Analysis of Algorithms</a></font></b>
+	<br/>
+	Course Instructor: <a href="http://www.cise.ufl.edu/~ungor/">Dr.Alper Ungor</a>
+	<br/>
+	<br/>
+	<li><b><font size="4"><a href="http://www.cise.ufl.edu/~tamer/teaching/fall2010/">Bioinformatics</a></font></b>
+	<br/>
+	Course Instructor: <a href="http://www.cise.ufl.edu/~tamer/">Dr.Tamer Kahveci</a>
+	</ul>
+<hr/>
+<li><h3>Spring 2011</h3>
+	<ul>
+	<li><b><font size="4"><a href="http://www.cise.ufl.edu/~nemo/cnt5106c/">Computer Networks</a></font></b>
+	<br/>
+	Course Instructor: <a href="http://www.cise.ufl.edu/~nemo/">Dr.Richard Newman</a>
+	<br/>
+	<br/>
+	<li><b><font size="4"><a href="http://www.cise.ufl.edu/~cop6726sp11/">Database Implementation</a></font></b>
+	<br/>
+	Course Instructor: <a href="http://www.cise.ufl.edu/~adobra/">Dr.Alin Dobra</a>
+	<br/>
+	<br/>
+	<li><b><font size="4"><a>Individual Study on Spatial Databases</a></font></b>
+	<br/>
+	Course Instructor: <a href="http://www.cise.ufl.edu/~mschneid/">Dr.Markus Schneider</a>
+</ul>
+<hr/>
+<li><h3>Fall 2011</h3>
+	<ul>
+	<li><b><font size="4"><a href="http://www.cise.ufl.edu/class/cda5155fa11/">Computer Architecture</a></font></b>
+	<br/>
+	Course Instructor: <a href="http://www.cise.ufl.edu/~peir/">Dr.Jih-Kwon Peir</a>
+	<br/>
+	<br/>
+	<li><b><font size="4"><a>Concurrent Programming</a></font></b>
+	<br/>
+	Course Instructor: <a href="http://www.cise.ufl.edu/~sanders/">Dr.Beverly Sanders</a>
+	<br/>
+	<br/>
+	<li><b><font size="4"><a href="http://www.cise.ufl.edu/~mschneid/Teaching/COP5725_Fall2011/COP5725_Fall2011.html">Databases Management Systems</a></font></b>
+	<br/>
+	Course Instructor: <a href="http://www.cise.ufl.edu/~mschneid/">Dr.Markus Schneider</a>
+</ul>
+</body>
+</html>
