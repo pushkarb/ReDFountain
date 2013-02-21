@@ -36,13 +36,22 @@ var clicked='false';
 
 <html>
 <title>
-Red's Fountain
+ReD's Fountain
 </title>
 <head>
 <link rel="stylesheet" type="css" href="mycss.css">
 </head>
 <body bgcolor="black">
 <div>
+<script type="javascript">
+var homeLink="http://fountainred.azurewebsites.net/"
+/*
+var smithaProLink=document.getElementById('smithaPro');
+var smithaOtherLink=document.getElementById('smithaOther');
+
+smithaProLink.href=homeLink+"SmithaMShankar";
+*/
+</script>
 	<div class="titlePicture">
 		<img src="Title-ReDFountain.png">
 	</div>
@@ -50,15 +59,15 @@ Red's Fountain
 		<div class="fade-in">
 			<a class="ourTiles2" onClick="showUpFunction('smitha');" onmouseover="MM_swapImage('smitha','','Smitha-Hover.png',1)" onmouseout="MM_swapImgRestore()"><img src="Smitha.png" name="smitha" id="smitha" /></a>
 			<div class="popTilesHorizontlal fade-in-target">
-				<a id="smithaPro" href="http://24.22.219.136:8080/SmithaMShankar" onmouseover="MM_swapImage('smitha-prof','','SProfessional-Hover.png',1)" onmouseout="MM_swapImgRestore()"><img src="SProfessional.png" name="smitha-prof" id="smitha-prof" /></a>
+				<a id="smithaPro" href=homeLink+"SmithaMShankar" onmouseover="MM_swapImage('smitha-prof','','SProfessional-Hover.png',1)" onmouseout="MM_swapImgRestore()"><img src="SProfessional.png" name="smitha-prof" id="smitha-prof" /></a>
 			</div>
 			<div class="popTilesHorizontlal fade-in-target">
-				<a id="smithaOther" href="http://24.22.219.136:8080/SmithaMShankar" onmouseover="MM_swapImage('smitha-other','','SOther-Hover.png',1)" onmouseout="MM_swapImgRestore()"><img src="SOther.png" name="smitha-other" id="smitha-other" /></a>
+				<a id="smithaOther" href="http://fountainred.azurewebsites.net/SmithaMShankar" onmouseover="MM_swapImage('smitha-other','','SOther-Hover.png',1)" onmouseout="MM_swapImgRestore()"><img src="SOther.png" name="smitha-other" id="smitha-other" /></a>
 			</div>
 		</div>
 		<div class="fade-in">
 			<div class="popTilesHorizontlal fade-in-target" >
-				<a id="pushkarPro" href="http://24.22.219.136:8080/PushkarB" onmouseover="MM_swapImage('pushkar-prof','','SProfessional-Hover.png',1)" onmouseout="MM_swapImgRestore()"><img src="SProfessional.png" name="pushkar-prof" id="pushkar-prof" /></a>
+				<a id="pushkarPro" href="http://fountainred.azurewebsites.net/PushkarB" onmouseover="MM_swapImage('pushkar-prof','','SProfessional-Hover.png',1)" onmouseout="MM_swapImgRestore()"><img src="SProfessional.png" name="pushkar-prof" id="pushkar-prof" /></a>
 			</div>
 			<div class="popTilesHorizontlal fade-in-target" >
 				<a id="pushkarOther" onmouseover="MM_swapImage('pushkar-other','','SOther-Hover.png',1)" onmouseout="MM_swapImgRestore()"><img src="SOther.png" name="pushkar-other" id="pushkar-other" /></a>
