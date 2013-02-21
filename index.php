@@ -59,7 +59,7 @@ smithaProLink.href=homeLink+"SmithaMShankar";
 		<div class="fade-in">
 			<a class="ourTiles2" onClick="showUpFunction('smitha');" onmouseover="MM_swapImage('smitha','','Smitha-Hover.png',1)" onmouseout="MM_swapImgRestore()"><img src="Smitha.png" name="smitha" id="smitha" /></a>
 			<div class="popTilesHorizontlal fade-in-target">
-				<a id="smithaPro" href=homeLink+"SmithaMShankar" onmouseover="MM_swapImage('smitha-prof','','SProfessional-Hover.png',1)" onmouseout="MM_swapImgRestore()"><img src="SProfessional.png" name="smitha-prof" id="smitha-prof" /></a>
+				<a id="smithaPro" href=homeLink+"'SmithaMShankar'" onmouseover="MM_swapImage('smitha-prof','','SProfessional-Hover.png',1)" onmouseout="MM_swapImgRestore()"><img src="SProfessional.png" name="smitha-prof" id="smitha-prof" /></a>
 			</div>
 			<div class="popTilesHorizontlal fade-in-target">
 				<a id="smithaOther" href="http://fountainred.azurewebsites.net/SmithaMShankar" onmouseover="MM_swapImage('smitha-other','','SOther-Hover.png',1)" onmouseout="MM_swapImgRestore()"><img src="SOther.png" name="smitha-other" id="smitha-other" /></a>
